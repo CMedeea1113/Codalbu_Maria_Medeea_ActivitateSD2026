@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta1\Source.c(18,45): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta1\Source.c(19,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta1\Source.c(54,43): warning C4305: 'function': truncation from 'double' to 'float'
+  Varianta1.vcxproj -> C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta1\x64\Debug\Varianta1.exe

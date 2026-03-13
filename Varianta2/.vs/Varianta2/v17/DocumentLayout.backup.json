@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{324B2504-6CF4-4973-BF9D-72F02792D63E}|Varianta2.vcxproj|C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{324B2504-6CF4-4973-BF9D-72F02792D63E}|Varianta2.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324B2504-6CF4-4973-BF9D-72F02792D63E}|Varianta2.vcxproj|C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta2\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{324B2504-6CF4-4973-BF9D-72F02792D63E}|Varianta2.vcxproj|solutionrelative:masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e9f0ab1f-5649-4620-a7d9-ee96788df550}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{271d5c74-3ac9-4328-910a-713e65f6ec25}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta2\\Source.c",
+              "RelativeDocumentMoniker": "Source.c",
+              "ToolTip": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta2\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswH8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-13T16:40:21.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "masini.txt",
+              "DocumentMoniker": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta2\\masini.txt",
+              "RelativeDocumentMoniker": "masini.txt",
+              "ToolTip": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta2\\masini.txt",
+              "RelativeToolTip": "masini.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-13T17:17:28.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

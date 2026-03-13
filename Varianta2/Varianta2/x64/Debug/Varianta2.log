@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta2\Source.c(38,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Varianta2.vcxproj -> C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta2\x64\Debug\Varianta2.exe
