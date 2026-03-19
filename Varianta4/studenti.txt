@@ -1,0 +1,8 @@
+1,20,9.50,Andrei Popescu,A
+2,21,8.75,Maria Ionescu,B
+3,19,9.90,Elena Georgescu,C
+4,22,7.60,Vlad Dumitrescu,A
+5,20,8.20,Ioana Marinescu,B
+6,23,9.10,Radu Stanescu,C
+7,21,6.95,Alexandru Popa,A
+8,19,9.80,Teodora Ene,B
