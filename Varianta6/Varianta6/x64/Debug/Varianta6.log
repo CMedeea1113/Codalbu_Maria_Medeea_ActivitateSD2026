@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta6\Main.c(42,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Varianta6.vcxproj -> C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta6\x64\Debug\Varianta6.exe

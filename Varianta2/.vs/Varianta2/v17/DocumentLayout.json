@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,6 +37,10 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
@@ -44,7 +48,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta2\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAArwCUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-13T16:40:21.274Z",
               "EditorCaption": ""
@@ -59,8 +63,7 @@
               "RelativeToolTip": "masini.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-03-13T17:17:28.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T17:17:28.254Z"
             }
           ]
         }
