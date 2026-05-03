@@ -1,0 +1,4 @@
+1,320,45.50,Enigma Otiliei,George Calinescu,R
+2,250,38.99,Moara cu noroc,Ioan Slavici,N
+3,410,59.90,Ion,Liviu Rebreanu,R
+4,180,29.50,Baltagul,Mihail Sadoveanu,N

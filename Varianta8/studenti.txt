@@ -1,0 +1,4 @@
+1,21,8.75,Popescu Ana,Automatica,B
+2,22,9.40,Ionescu Maria,Aerospatiala,Z
+3,20,7.85,Georgescu Mihai,Cibernetica,B
+4,23,6.90,Dumitrescu Andrei,Electronica,T
