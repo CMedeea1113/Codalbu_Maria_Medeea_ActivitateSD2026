@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta10\main.c(210,49): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta10\main.c(211,49): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta10\main.c(213,49): warning C4305: 'function': truncation from 'double' to 'float'
+  Varianta10.vcxproj -> C:\Users\Medeea\Desktop\Codalbu_Maria_Medeea_ActivitateSD2026\Varianta10\x64\Debug\Varianta10.exe
