@@ -1,0 +1,6 @@
+1,100,Moara cu Noroc,2
+2,140,Hanul Drumetului,3
+3,90,Harap Alb,1
+4,120,O scrisoare pierduta,4
+5,200,Ion,5
+6,75,Maitreyi,2
