@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta14\\",
+  "WorkspaceRootPath": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DBE956E-DF7D-47DA-9528-CFC0B7210027}|Varianta14.vcxproj|C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta14\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9DBE956E-DF7D-47DA-9528-CFC0B7210027}|Varianta14.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{59ECE372-6A49-449E-A8ED-47B1F2BC96AA}|Varianta16.vcxproj|C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta16\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59ECE372-6A49-449E-A8ED-47B1F2BC96AA}|Varianta16.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.c",
-              "DocumentMoniker": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta14\\Main.c",
+              "DocumentMoniker": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta16\\Main.c",
               "RelativeDocumentMoniker": "Main.c",
-              "ToolTip": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta14\\Main.c",
+              "ToolTip": "C:\\Users\\Medeea\\Desktop\\Codalbu_Maria_Medeea_ActivitateSD2026\\Varianta16\\Main.c",
               "RelativeToolTip": "Main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgCAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAADwv8wAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-05-15T19:02:06.227Z",
+              "WhenOpened": "2026-05-15T20:15:13.893Z",
               "EditorCaption": ""
             }
           ]
